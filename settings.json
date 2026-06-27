@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "example.aternos.me",
-    "port": 92591,
+    "ip": "POJAV_smp.aternos.me",
+    "port": 34190,
     "version": "1.21.1"
   },
   "position": {
